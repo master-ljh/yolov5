@@ -1,0 +1,13 @@
+names:
+- cell
+- tumor_mass
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: tumor-egzxx
+  url: https://universe.roboflow.com/monash-h8dbx/tumor-egzxx/dataset/2
+  version: 2
+  workspace: monash-h8dbx
+test: ../test/images
+train: tumor-2/train/images
+val: tumor-2/valid/images
